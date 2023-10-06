@@ -7,4 +7,4 @@ let currentPage = 1;
 const PER_PAGE = 6;
 let response;
 
-let isLoading
+let isLoading = "false";
